@@ -1,0 +1,9 @@
+{
+  "commitish" : "v1.2.0",
+  "iOS" : [
+    {
+      "name" : "AssimpKit",
+      "hash" : "b4910f7956c55810de2617de4ad0647d5b1eb50d66f5e6501e687f8173c20e3c"
+    }
+  ]
+}
